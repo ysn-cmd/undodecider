@@ -1,0 +1,39 @@
+# Compiled binaries
+*.out
+*.exe
+*.app
+password
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.log
+*.core
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS system files
+.DS_Store
+
+# Linux temporary files
+*~
+*.tmp
+
+# Build folders (if you add later)
+build/
+dist/
+
+# Valgrind / sanitizer outputs
+vgcore.*
