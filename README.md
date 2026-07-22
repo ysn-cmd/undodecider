@@ -1,4 +1,4 @@
-# 🔐 Passwordingding
+# 🔐 undodecider
 
 This project is a **secure password generator written in C**.  
 It uses **cryptographically secure randomness from `/dev/urandom`** and guarantees that every generated password contains:
